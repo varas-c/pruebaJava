@@ -6,7 +6,7 @@ body, html {
 
 .bg {
     /* The image used */
-    background-image: url("background.jpg");
+    background-image: url("https://github.com/varas-c/pruebaJava/blob/master/background.jpg?raw=true);
 
     /* Full height */
     height: 100%; 
